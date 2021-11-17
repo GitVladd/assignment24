@@ -1,0 +1,36 @@
+.categTitle {
+    display: block;
+    text-align: center;
+    border-bottom:1px solid rgb(217, 217, 217);
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 30px;
+    color: white;
+    text-transform: uppercase;
+    background-color: #1b0333;;
+  }
+  
+
+  .prodByCategoryList{
+    display: table;
+    justify-content: center;
+    align-items: center;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-left: 2%;
+    padding-right: 2%;
+    border-spacing: 50px;
+
+}
+
+@media screen and (max-width: 1100px) {
+    .prodByCategoryList{
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 10%;
+        padding-left: auto;
+        padding-right: auto;
+        border-spacing: 0;
+
+    }
+}

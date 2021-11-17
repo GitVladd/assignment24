@@ -1,0 +1,29 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,500);
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 30%;
+  padding-left: 25px;
+}
+
+.botnav h1{
+
+  padding-top: 3%;
+  font-size: 16px;
+  color: #DDD;
+  font-family: 'Roboto', sans-serif;
+
+}
+
+
+footer { 
+  width:100%;
+  background-color: #1b0333;
+  text-align: center;
+}
+
+
+

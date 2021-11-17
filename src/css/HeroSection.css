@@ -1,0 +1,24 @@
+/* .heroSection{
+    background-color: #66391f;
+    height:200px;
+}
+
+
+.heroSection img {
+    max-width: 100%;
+    height: auto;
+    width: auto\9;
+} */
+
+.heroSection img {
+ 
+    width:100%;
+    height:100%;
+}
+
+.heroSection {
+    height: 300px;
+    width: 100%; 
+}
+
+    
